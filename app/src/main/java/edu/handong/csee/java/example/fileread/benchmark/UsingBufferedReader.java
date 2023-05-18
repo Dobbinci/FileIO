@@ -1,7 +1,6 @@
 package edu.handong.csee.java.example.fileread.benchmark;
 
 import java.io.*;
-import java.util.ArrayList;
 
 /**
  * Created by sherxon on 4/23/17. https://github.com/sherxon/AlgoDS/tree/master/src/oi
